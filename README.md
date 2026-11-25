@@ -245,3 +245,65 @@ These findings provide starting points for further investiagtion and potential H
 Limitation:
 The analysis identifies statistical associations, not causal relationships. Further analysis would be required to determine the underlying reasons for employee attrition.
 <img width="435" height="286" alt="image" src="https://github.com/user-attachments/assets/0eeb4ffd-fa64-43e7-95d0-8015c355e1bb" />
+
+## Power BI Dashboard
+
+<img width="1457" height="796" alt="Screenshot 2026-11-25 111954" src="https://github.com/user-attachments/assets/e9fb9ffc-bba1-4c18-bf52-ab4bdf0c4d15" />
+
+<img width="1442" height="812" alt="Screenshot 2026-11-25 112031" src="https://github.com/user-attachments/assets/dd4b1e80-8135-4c75-9d83-12189fb1be92" />
+
+# HR Recommendations
+
+Based on the exploratory data analysis and Power BI dashboard, several potential areas for improvement were identified.
+
+## 1. Improve Employee Onboarding
+
+Employees with 0-1 years of company tenure showed the highest attrition rate (34.88%).
+
+### Recommendation:
+- Introduce structured onboarding programs
+- Establish mentoring and buddy systems
+- Conduct regular check-ins during the first year
+
+## 2. Review Overtime and Workload
+
+Employees working overtime had an attrition rate of 30.53%, compared to 10.44% among employees without overtime.
+
+Recommendation:
+- Monitor overtime frequency
+- Review workload distribution
+- Evaluate work-life balance initiatives
+
+## 3. Strengthen Sales Employee Retention
+
+The Sales department showed an attrition rate of 20.63%. Sales Representatives had an especially high rate of 39.76%.
+
+Recommendation:
+- Investigate job-specific challenges
+- Review performance expectations and workload
+- Evaluate compensation and carreer development opportunities
+
+## 4. Improve Employee Satisfaction
+
+Employees with low job satisfaction showed an attrition rate of 22.84%, compared to 11.33% among employees with very high satisfaction.
+
+Recommendation:
+- Conduct regular employee satisfaction surveys
+- Improve employee feedback processes
+- Support leadership and management development
+
+# Conlcusion
+
+The analysis highlights several workforce segments that may require additional attention. Targeted HR initiatives could help improve employee retention and reduce turnover.
+
+Limitation: These recommendation are based on observed statistical associations. The analysis does not establish causal relationships.
+
+# Skills Development & Learning Process
+
+Throughout this project, I focused on improving my practical skills in Excel and Power BI, particularly in data cleaning, data modeling and DAX. I also placed greater emphasis on data quality, selecting appropriate metrics, interpreting results correctly, and translating analytical findings into meaningful business insights.
+Additionally, I learned to use AI tools more effectively as part of my workflow. I used AI to support problem-solving, improve workflow efficiency, structure tasks, and create more professional and consistent project documentation.
+Overall the project helped me develop a more structured approach to data analysis while combining technical skills, AI-assisted workflows, and business-oriented thinking.
+
+
+
+
