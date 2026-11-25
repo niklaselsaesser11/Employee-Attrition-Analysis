@@ -5,7 +5,7 @@ The project uses the IBM HR Analytics Attrition & Performance dataset.
 The dataset contains employee-related information, including demographic characteristics, job roles, compensation, job satisfaction, working conditions and employee attrition.
 Excel Document Download: [employee-attrition-analysis.xlsx](https://github.com/user-attachments/files/35408325/employee-attrition-analysis.xlsx)
 
-Power BI Document Download: [Employee Retention Analysis.pdf](https://github.com/user-attachments/files/35408322/Employee.Retention.Analysis.pdf)
+Power BI Document Download: [Employee Retention Analysis.pdf](https://github.com/user-attachments/files/35408378/Employee.Retention.Analysis.pdf)
 
 
 ## Dataset Inspection
